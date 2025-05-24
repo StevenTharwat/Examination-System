@@ -61,7 +61,7 @@ Examination/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/examination-system.git
+   git clone https://github.com/StevenTharwat/Examination-System.git
    ```
 2. Open the solution in Visual Studio or run via CLI:
    ```bash
@@ -92,4 +92,4 @@ Questions are saved as JSON and loaded dynamically:
 
 ## 📜 License
 
-This project is open source and available under the MIT License.
+This project is open source.
