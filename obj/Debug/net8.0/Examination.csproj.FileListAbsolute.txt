@@ -1,0 +1,17 @@
+E:\projects\ITI\dotNet\advancedCsharp\Examination\bin\Debug\net8.0\Examination.exe
+E:\projects\ITI\dotNet\advancedCsharp\Examination\bin\Debug\net8.0\Examination.deps.json
+E:\projects\ITI\dotNet\advancedCsharp\Examination\bin\Debug\net8.0\Examination.runtimeconfig.json
+E:\projects\ITI\dotNet\advancedCsharp\Examination\bin\Debug\net8.0\Examination.dll
+E:\projects\ITI\dotNet\advancedCsharp\Examination\bin\Debug\net8.0\Examination.pdb
+E:\projects\ITI\dotNet\advancedCsharp\Examination\obj\Debug\net8.0\Examination.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\ITI\dotNet\advancedCsharp\Examination\obj\Debug\net8.0\Examination.AssemblyInfoInputs.cache
+E:\projects\ITI\dotNet\advancedCsharp\Examination\obj\Debug\net8.0\Examination.AssemblyInfo.cs
+E:\projects\ITI\dotNet\advancedCsharp\Examination\obj\Debug\net8.0\Examination.csproj.CoreCompileInputs.cache
+E:\projects\ITI\dotNet\advancedCsharp\Examination\obj\Debug\net8.0\Examination.dll
+E:\projects\ITI\dotNet\advancedCsharp\Examination\obj\Debug\net8.0\refint\Examination.dll
+E:\projects\ITI\dotNet\advancedCsharp\Examination\obj\Debug\net8.0\Examination.pdb
+E:\projects\ITI\dotNet\advancedCsharp\Examination\obj\Debug\net8.0\Examination.genruntimeconfig.cache
+E:\projects\ITI\dotNet\advancedCsharp\Examination\obj\Debug\net8.0\ref\Examination.dll
+E:\projects\ITI\dotNet\advancedCsharp\Examination\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\projects\ITI\dotNet\advancedCsharp\Examination\obj\Debug\net8.0\Examination.csproj.AssemblyReference.cache
+E:\projects\ITI\dotNet\advancedCsharp\Examination\obj\Debug\net8.0\Examinat.C06FD14B.Up2Date
